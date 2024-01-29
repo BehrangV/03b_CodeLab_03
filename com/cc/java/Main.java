@@ -20,8 +20,8 @@ public class Main {
     // Hilfsmethode zur Erstellung eines zufälligen Mitarbeiters
     private static Mitarbeiter createRandomEmployee(int employeeNumber) {
         Random random = new Random();
-        String[] names = {"Smith", "Johnson", "Williams", "Jones", "Brown", "Davis", "Miller", "Wilson", "Moore", "Taylor"};
-        String[] firstNames = {"John", "Jane", "Robert", "Emily", "Michael", "Emma", "Christopher", "Olivia", "Matthew", "Sophia"};
+        String[] names = {"Jansen", "Schmidt", "Williams", "Watzlawik", "Prattchet", "Davis", "Kilmister", "Crowley", "Connery", "Taylor"};
+        String[] firstNames = {"John", "Lemmy", "Paul", "Emily", "Terry", "Emma", "Christopher", "Olivia", "Sean", "Liz"};
         String[] departments = {"Buchhaltung", "Produktion", "Werbung"};
         String[] jobs = {"Accountant", "Manufacturer", "Advertiser"};
 
